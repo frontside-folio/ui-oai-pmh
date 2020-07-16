@@ -29,7 +29,7 @@ export default class OaiPmhSettings extends React.Component {
     },
     {
       route: 'sets',
-      label: <FormattedMessage id="ui-oai-pmh.settings.sets.title" />,
+      label: 'UI for rancher',
       component: SetsRoute,
     },
   ];
