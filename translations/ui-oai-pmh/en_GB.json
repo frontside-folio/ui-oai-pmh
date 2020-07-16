@@ -1,6 +1,6 @@
 {
     "meta.title": "OAI-PMH",
-    "settings.title": "OAI-PMH",
+    "settings.title": "OAI-PMH - from rancher branch",
     "settings.behavior.label.deletedRecordsSupport": "Deleted records support",
     "settings.behavior.tooltip.deletedRecordsSupport": "The manner in which the repository supports the notion of deleted records.",
     "settings.behavior.label.suppressedRecordsProcessing": "Suppressed records processing",
